@@ -1,0 +1,14 @@
+O que é JavaScript?
+JavaScript é uma linguagem de programação de alto nível, interpretada e
+orientada a objetos. Ela é amplamente utilizada para criar interatividade em 
+páginas web, permitindo que os desenvolvedores criem animações, validem
+formulários, exibam e ocultem elementos da página e muito mais. JavaScript
+também é usado para criar aplicativos web complexos, jogos e outras 
+aplicações interativas.
+
+Para que serve o JavaScript? 
+O JavaScript é usado principalmente para criar interatividade e
+funcionalidades em páginas web, como validação de formulários, animações, 
+exibição e ocultação de elementos na página, rolagem suave, carregamento 
+assíncrono de conteúdo e muito mais. Pode ser utilizada no back-end(Node.js)
+
